@@ -43,3 +43,11 @@ def analisar_logs(registros):
 
 
 analisar_logs(logs)
+
+//Terminal:
+//Conexões permitidas: 2
+
+//IPs bloqueados:
+//192.168.1.10: 3 bloqueios
+//ALERTA: muitas tentativas bloqueadas!
+//10.0.0.5: 1 bloqueios
