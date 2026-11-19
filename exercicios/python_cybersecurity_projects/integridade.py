@@ -53,3 +53,11 @@ def verificar(caminho):
 if __name__ == "__main__":
     arquivo = input("Caminho do arquivo: ")
     verificar(arquivo)
+
+
+//Caminho do arquivo: documento.txt
+//Hash inicial registrado.
+
+//Depois de modificar:
+//Caminho do arquivo: documento.txt
+//ALERTA: ARQUIVO MODIFICADO!
