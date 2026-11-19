@@ -55,3 +55,11 @@ if __name__ == "__main__":
 
     elif opcao == "2":
         descriptografar(caminho, fernet)
+
+//1 - Criptografar
+//2 - Descriptografar
+
+//Escolha: 1
+//Arquivo: documento.txt
+
+//Arquivo criptografado!
