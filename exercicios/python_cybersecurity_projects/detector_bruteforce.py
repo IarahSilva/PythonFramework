@@ -41,3 +41,8 @@ def detectar_bruteforce(logs, limite=3):
 
 
 detectar_bruteforce(LOGS)
+
+//Terminal:
+//ALERTA: possível força bruta!
+//IP: 192.168.1.10
+//Tentativas: 4
