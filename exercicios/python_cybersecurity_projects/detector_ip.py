@@ -52,3 +52,12 @@ def analisar(registros):
 
 
 analisar(logs)
+
+//Terminal:
+//RELATÓRIO DE INDICADORES
+
+//IP suspeito: 203.0.113.10
+//Registro: Conexão recebida de //203.0.113.10
+//---
+//IP suspeito: 198.51.100.20
+Total de alertas: 2
