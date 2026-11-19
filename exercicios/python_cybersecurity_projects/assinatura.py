@@ -40,3 +40,7 @@ try:
 
 except Exception:
     print("Assinatura inválida!")
+
+
+//Documento assinado!
+//Assinatura válida!
