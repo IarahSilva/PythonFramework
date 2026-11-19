@@ -35,3 +35,9 @@ for porta in portas:
     verificar_porta(host, porta)
 
 print("Análise finalizada.")
+
+//Terminal:
+//Analisando: 127.0.0.1
+//Porta 22: ABERTA
+//Porta 8080: ABERTA
+//Análise finalizada.
