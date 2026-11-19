@@ -45,3 +45,15 @@ if __name__ == "__main__":
     monitorar()
 
 //pip install psutil
+
+
+//Terminal:
+//CONEXÕES TCP
+
+//PID: 1024 | Origem: 127.0.0.1:8080 |
+//Destino: 127.0.0.1:50000 | Estado:
+//ESTABLISHED
+
+RESUMO:
+ESTABLISHED 1
+LISTEN 4
