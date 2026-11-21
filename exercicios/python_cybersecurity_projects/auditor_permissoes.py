@@ -36,3 +36,9 @@ if __name__ == "__main__":
         auditar(pasta)
     else:
         print("Diretório inválido.")
+
+
+//Diretório para auditar: ./laboratorio
+
+//[RISCO] Escrita liberada para todos:
+//./laboratorio/config.txt 0o666
