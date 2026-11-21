@@ -51,3 +51,10 @@ if __name__ == "__main__":
         monitorar()
     except KeyboardInterrupt:
         print("\nMonitoramento encerrado.")
+
+//Abra outro terminal e acrescente ao arquivo sistema.log:
+//2026-11-17 FAILED LOGIN user=admin
+
+//[22:30:10] ALERTA
+//Evento: Tentativa de login malsucedida
+//Registro: 2026-11-17 FAILED LOGIN //user=admin
