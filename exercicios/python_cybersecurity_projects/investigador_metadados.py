@@ -35,3 +35,18 @@ def investigar(caminho):
 if __name__ == "__main__":
     caminho = input("Caminho da imagem: ")
     investigar(caminho)
+
+
+//Instale:
+//pip install Pillow
+
+//Terminal:
+//INFORMAÇÕES DA IMAGEM
+//Formato: JPEG
+//Dimensões: (1920, 1080)
+//Modo: RGB
+//Tamanho: 245000 bytes
+
+//METADADOS EXIF
+//DateTime: 2026:11:15 14:30:00
+//Make: Samsung
