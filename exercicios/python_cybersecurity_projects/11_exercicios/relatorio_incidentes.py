@@ -106,3 +106,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#1 - Registrar incidente
+
+#[NOVO INCIDENTE]
+#Tipo do incidente: Acesso não autorizado
+#Gravidade: Alta
+#Descrição: Tentativas suspeitas de login
+
+#Incidente registrado!
+
+# 2 - Gerar relatórios
+
+#Relatórios gerados!
