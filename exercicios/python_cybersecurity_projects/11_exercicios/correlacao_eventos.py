@@ -51,3 +51,12 @@ def correlacionar(eventos):
 
 if __name__ == "__main__":
     correlacionar(EVENTOS)
+
+    #ANÁLISE DE CORRELAÇÃO
+
+#[ALERTA DE SEGURANÇA]
+
+#IP: 192.168.1.10
+#Falhas anteriores: 3
+#Evento posterior: Login bem-sucedido
+#Possível comprometimento de conta.
