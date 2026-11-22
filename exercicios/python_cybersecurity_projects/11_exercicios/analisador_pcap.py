@@ -53,18 +53,18 @@ if __name__ == "__main__":
     else:
         analisar(sys.argv[1])
 
-//pip install scapy
+#pip install scapy
 
-//python analisador_pcap.py captura.pcap
-//Terminal:
+#python analisador_pcap.py captura.pcap
+#Terminal:
 
-//Total de pacotes: 150
+#Total de pacotes: 150
 
-//Protocolos:
-//TCP 90
-//UDP 45
-//ICMP 15
+#Protocolos:
+#TCP 90
+#UDP 45
+#ICMP 15
 
-//IPs mais frequentes:
-//192.168.1.10 80
-192.168.1.20 50
+#IPs mais frequentes:
+#192.168.1.10 80
+#192.168.1.20 50

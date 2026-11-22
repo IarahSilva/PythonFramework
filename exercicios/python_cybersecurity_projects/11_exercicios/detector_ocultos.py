@@ -41,14 +41,14 @@ if __name__ == "__main__":
     caminho = input("Arquivo de texto: ")
     analisar(caminho)
 
-//Terminal:
+#Terminal:
 
-//ANÁLISE DE CARACTERES
+#ANÁLISE DE CARACTERES
 
-//Total de caracteres: 35
-//Caracteres suspeitos: 1
+#Total de caracteres: 35
+#Caracteres suspeitos: 1
 
-//Posição: 12
-//Unicode: U+200B
-//Categoria: Cf
-//Nome: ZERO WIDTH SPACE
+#Posição: 12
+#Unicode: U+200B
+#Categoria: Cf
+#Nome: ZERO WIDTH SPACE

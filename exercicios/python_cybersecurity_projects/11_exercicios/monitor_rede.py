@@ -44,16 +44,16 @@ def monitorar():
 if __name__ == "__main__":
     monitorar()
 
-//pip install psutil
+#pip install psutil
 
 
-//Terminal:
-//CONEXÕES TCP
+#Terminal:
+#CONEXÕES TCP
 
-//PID: 1024 | Origem: 127.0.0.1:8080 |
-//Destino: 127.0.0.1:50000 | Estado:
-//ESTABLISHED
+#PID: 1024 | Origem: 127.0.0.1:8080 |
+#Destino: 127.0.0.1:50000 | Estado:
+#ESTABLISHED
 
-RESUMO:
-ESTABLISHED 1
-LISTEN 4
+#RESUMO:
+#ESTABLISHED 1
+#LISTEN 4

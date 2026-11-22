@@ -55,9 +55,9 @@ if __name__ == "__main__":
     verificar(arquivo)
 
 
-//Caminho do arquivo: documento.txt
-//Hash inicial registrado.
+#Caminho do arquivo: documento.txt
+#Hash inicial registrado.
 
-//Depois de modificar:
-//Caminho do arquivo: documento.txt
-//ALERTA: ARQUIVO MODIFICADO!
+#Depois de modificar:
+#Caminho do arquivo: documento.txt
+#ALERTA: ARQUIVO MODIFICADO!

@@ -45,8 +45,8 @@ if __name__ == "__main__":
     arquivo = input("Arquivo para analisar: ")
     analisar(arquivo)
 
-//Terminal:
-//Arquivo: teste.txt
-//SHA-256: 3a7bd3e2360a...
+#Terminal:
+#Arquivo: teste.txt
+#SHA-256: 3a7bd3e2360a...
 
-//[INFO] Hash não encontrado na base local.
+#[INFO] Hash não encontrado na base local.

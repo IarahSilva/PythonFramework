@@ -80,15 +80,15 @@ def main():
 if __name__ == "__main__":
     main()
 
-//pip install cryptography
-//1 - Adicionar senha
-//2 - Consultar senha
-//3 - Listar serviços
-//0 - Sair
+#pip install cryptography
+#1 - Adicionar senha
+#2 - Consultar senha
+#3 - Listar serviços
+#0 - Sair
 
-//Escolha: 1
-//Serviço: GitHub
-//Usuário: IarahSilva
-//Senha: MinhaSenha123
+#Escolha: 1
+#Serviço: GitHub
+#Usuário: IarahSilva
+#Senha: MinhaSenha123
 
-//Credencial armazenada!
+#Credencial armazenada!

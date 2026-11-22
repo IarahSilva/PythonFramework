@@ -51,12 +51,12 @@ if __name__ == "__main__":
     caminho = input("Caminho do arquivo: ")
     analisar(caminho)
 
-//Terminal:
-//RELATÓRIO DO ARQUIVO
+#Terminal:
+#RELATÓRIO DO ARQUIVO
 
-//Nome: programa.exe
-//Tamanho: 20480 bytes
-//Extensão: .exe
-//Formato detectado: Executável Windows (PE)
-//SHA-256: 7f83b165...
-//ATENÇÃO: arquivo executável ou script.
+#Nome: programa.exe
+#Tamanho: 20480 bytes
+#Extensão: .exe
+#Formato detectado: Executável Windows (PE)
+#SHA-256: 7f83b165...
+#ATENÇÃO: arquivo executável ou script.

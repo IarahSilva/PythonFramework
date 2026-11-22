@@ -38,7 +38,7 @@ if __name__ == "__main__":
         print("Diretório inválido.")
 
 
-//Diretório para auditar: ./laboratorio
+#Diretório para auditar: ./laboratorio
 
-//[RISCO] Escrita liberada para todos:
-//./laboratorio/config.txt 0o666
+#[RISCO] Escrita liberada para todos:
+#./laboratorio/config.txt 0o666

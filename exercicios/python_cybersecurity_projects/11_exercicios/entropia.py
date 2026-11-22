@@ -39,7 +39,7 @@ else:
     print("Segurança estimada: alta")
 
 
-//Terminal:
-//Digite uma senha: Abc123!xyz
-//Entropia estimada: 65.54 bits
-//Segurança estimada: alta
+#Terminal:
+#Digite uma senha: Abc123!xyz
+#Entropia estimada: 65.54 bits
+#Segurança estimada: alta

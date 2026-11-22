@@ -66,11 +66,11 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\nMonitoramento encerrado.")
 
-//Terminal:
-//Criando snapshot inicial...
-//Monitoramento iniciado. CTRL+C para parar.
+#Terminal:
+#Criando snapshot inicial...
+#Monitoramento iniciado. CTRL+C para parar.
 
-//[MODIFICADO] arquivos_monitorados//
-/config.txt
-//[NOVO] arquivos_monitorados//relatorio.pdf
-//[REMOVIDO] arquivos_monitorados/teste.txt
+#[MODIFICADO] arquivos_monitorados#
+#/config.txt
+#[NOVO] arquivos_monitorados//relatorio.pdf
+#[REMOVIDO] arquivos_monitorados/teste.txt
