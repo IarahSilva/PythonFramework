@@ -1,0 +1,6 @@
+{"timestamp":"2026-11-23T12:00:00+00:00","source":"auth-lab","event_type":"login_failed","username":"admin","src_ip":"192.0.2.10"}
+{"timestamp":"2026-11-23T12:01:00+00:00","source":"auth-lab","event_type":"login_failed","username":"admin","src_ip":"192.0.2.10"}
+{"timestamp":"2026-11-23T12:02:00+00:00","source":"auth-lab","event_type":"login_failed","username":"admin","src_ip":"192.0.2.10"}
+{"timestamp":"2026-11-23T12:03:00+00:00","source":"auth-lab","event_type":"login_failed","username":"admin","src_ip":"192.0.2.10"}
+{"timestamp":"2026-11-23T12:04:00+00:00","source":"auth-lab","event_type":"login_failed","username":"admin","src_ip":"192.0.2.10"}
+{"timestamp":"2026-11-23T12:05:00+00:00","source":"endpoint-lab","event_type":"malware_detected","username":"lab-user","src_ip":"192.0.2.25","details":{"file":"eicar-test.txt"}}

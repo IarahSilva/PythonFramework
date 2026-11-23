@@ -1,0 +1,3 @@
+# O scanner usa apenas a biblioteca padrão para chamar pip-audit.
+# pip-audit é instalado no ambiente que será auditado:
+pip-audit>=2.7,<3.0
