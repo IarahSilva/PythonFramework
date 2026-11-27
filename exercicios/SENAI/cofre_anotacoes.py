@@ -8,3 +8,24 @@ def salvar_anotacao():
 
 salvar_anotacao()
 
+#================================
+#       COFRE DE ANOTAÇÕES
+#================================
+
+#1 - Criar anotação
+#2 - Visualizar anotações
+#3 - Sair
+
+#Escolha: 1
+
+#Digite sua anotação:
+#Estudar Python e Segurança da Informação.
+
+#Anotação salva com sucesso!
+
+#Escolha: 2
+
+#SUAS ANOTAÇÕES:
+
+#1. Estudar Python e Segurança da Informação.
+
